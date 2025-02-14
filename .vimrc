@@ -30,7 +30,7 @@ vnoremap J :m '>+1<CR>gv=gv
 set number
 set termguicolors
 set scrolloff=8
-set background=light
+set background=dark
 syntax on
 
 " Define colors to match the scheme in the first image
